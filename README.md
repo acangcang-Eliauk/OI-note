@@ -1,4 +1,4 @@
-欢迎━(*｀∀´*)ノ亻!！来到我的$\ \text {OI note}$ `github` 备份！
+欢迎━(*｀∀´*)ノ亻!！来到我的 $\text {OI note}$ `github` 备份！
 
 最新内容发布在我的 [bolg](https://www.cnblogs.com/acangcang-Eliauk/)，欢迎拜访。
 
